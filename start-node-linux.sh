@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone-2.22.0.jar -role node -nodeConfig node-config-mac.json -hub http://$1/grid/register
